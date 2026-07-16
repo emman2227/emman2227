@@ -2,23 +2,23 @@
 
 ## About Me
 
-4th Year Student, Full-stack developer focused on building scalable web applications and intuitive user experiences. Experienced in modern JavaScript frameworks, REST APIs, database design, and responsive UI development. Also interested in mobile development, cloud technologies, and DevOps.
+4th-year student, Full-stack developer focused on building scalable web applications and intuitive user experiences. Experienced in modern JavaScript frameworks, REST APIs, database design, and responsive UI development. Also interested and proficient in mobile development and cloud technologies. 
 
 <p align="center">
   <a href="https://emmandv-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:demmanueljesse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/emmanuel-lazarte-de-vera-9397352a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -38,20 +38,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💰 SpendWise
+### SpendWise
 AI-powered expense tracking platform with predictive analytics.
 
-### 📰 Kapit-Bisig
+### Kapit-Bisig
 A relief distribution system.
 
----
-
-## 🐍 Contribution Graph
-
-> *Coming soon...*
-
-```
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-```
