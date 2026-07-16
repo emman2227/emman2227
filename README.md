@@ -2,7 +2,7 @@
 
 ## About Me
 
-4th-year student, Full-stack developer focused on building scalable web applications and intuitive user experiences. Experienced in modern JavaScript frameworks, REST APIs, database design, and responsive UI development. Also interested and proficient in mobile development and cloud technologies. 
+4th-year student, Full-stack developer focused on building scalable web applications and intuitive user experiences. Experienced in modern JavaScript frameworks, REST APIs, database design, and responsive UI development. Proficient in adapting to new technologies and in AI. Also interested and proficient in mobile development and cloud technologies. 
 
 <p align="center">
   <a href="https://emmandv-portfolio.vercel.app/" target="_blank">
